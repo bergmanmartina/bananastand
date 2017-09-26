@@ -1,1 +1,1 @@
-console.log(greet) = ('Välkommen')
+const greet = console.log ('Välkommen')
