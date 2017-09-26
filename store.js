@@ -1,2 +1,1 @@
-const greet = 'Välkommen!'
-console.log(greet)
+console.log(greet) = ('Välkommen')
